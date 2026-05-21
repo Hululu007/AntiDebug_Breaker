@@ -16,7 +16,7 @@
   <img src="image/README/1778477632106.gif" alt="BestProxy - 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率" width="100%">
 </a>
 
-> [BestProxy](https://bestproxy.com/?keyword=hljimj1i) - 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率
+> [BestProxy](https://bestproxy.com/?keyword=hljimj1i) - 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率。[立即免费测试吧！](https://bestproxy.com/?keyword=hljimj1i)
 
 ---
 
