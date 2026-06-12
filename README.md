@@ -8,37 +8,13 @@
 
 ## 赞助商
 
-- [BestProxy](https://bestproxy.com/?keyword=hljimj1i)
+感谢以下朋友与伙伴对 AntiDebug Breaker 的支持。
 
-9折折扣码：**ZCTYUH90**，注册后赠送500M流量
-
-<a href="https://bestproxy.com/?keyword=hljimj1i" target="_blank">
-  <img src="image/README/1778477632106.gif" alt="BestProxy - 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率" width="100%">
-</a>
-
-> [BestProxy](https://bestproxy.com/?keyword=hljimj1i) - 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率。[立即免费测试吧！](https://bestproxy.com/?keyword=hljimj1i)
-
----
-
-- [RapidProxy](https://www.rapidproxy.io/?ref=0xsdeo)
-
-9折折扣码：**0xsdeo**
-
-新用户注册提供免费500MB，测试联系：https://t.me/erhutongzi
-
-<a href="https://www.rapidproxy.io/?ref=0xsdeo" target="_blank">
-  <img src="image/README/1778569506987.png" alt="RapidProxy - 提供全球 9000万+ 真实住宅 IP，支持动态/静态住宅代理，覆盖 190+ 国家地区。" width="100%">
-</a>
-
->[RapidProxy](https://www.rapidproxy.io/?ref=0xsdeo) 提供全球 9000万+ 真实住宅 IP，支持动态/静态住宅代理，覆盖 190+ 国家地区。高匿名、低封禁、稳定高速，流量不会过期，适用于自动化、AI 数据采集、多账号管理等场景。[立即免费测试吧！](https://www.rapidproxy.io/?ref=0xsdeo)
-
-- [BirdProxies](https://birdproxies.com/@ANTIDEBUG_BREAKER)
-
-<a href="https://birdproxies.com/@ANTIDEBUG_BREAKER"><img src="image/README/1779357961398.png" /></a>
-
-[BirdProxies](https://birdproxies.com/@ANTIDEBUG_BREAKER) — 嘿，我们做 BirdProxies 的初衷是——代理不该搞得那么复杂，也不该那么贵。提供覆盖 195 多个地区的快速住宅代理和 ISP 代理，价格公道，支持到位。去我们官网首页玩玩 FlappyBird 小游戏，还能免费领流量！通过[这个链接](https://birdproxies.com/@ANTIDEBUG_BREAKER)注册，首单可享 10% 折扣，并额外获得 15% 住宅代理免费流量~
-
-测试联系: [https://discord.com/invite/birdproxies](https://discord.com/invite/birdproxies)
+| Logo | 赞助商 | 介绍 | 邀请码 | 官网 |
+| :--- | :--- | :--- | :--- | :--- |
+| [![BestProxy](image/README/1778477632106.gif)](https://bestproxy.com/?keyword=hljimj1i) | BestProxy | 高纯度住宅IP资源，支持一号一IP独享模式，全链路防关联，降低风控概率，著提升账号通过率与长期存活率。 | 9折折扣码：**ZCTYUH90**<br>注册后赠送500M流量 | [立即免费测试](https://bestproxy.com/?keyword=hljimj1i) |
+| [![RapidProxy](image/README/1778569506987.png)](https://www.rapidproxy.io/?ref=0xsdeo) | RapidProxy | 提供全球 9000万+ 真实住宅 IP，支持动态/静态住宅代理，覆盖 190+ 国家地区。高匿名、低封禁、稳定高速，流量不会过期，适用于自动化、AI 数据采集、多账号管理等场景。 | 9折折扣码：**0xsdeo**<br>新用户注册免费500MB<br>测试联系：https://t.me/erhutongzi | [立即免费测试](https://www.rapidproxy.io/?ref=0xsdeo) |
+| [![BirdProxies](image/README/1779357961398.png)](https://birdproxies.com/@ANTIDEBUG_BREAKER) | BirdProxies | 代理不该复杂也不该贵。覆盖 195+ 地区的快速住宅代理和 ISP 代理，价格公道，支持到位。官网首页玩 FlappyBird 小游戏可免费领流量。 | 首单10%折扣 + 额外15%住宅代理免费流量<br>测试联系：https://discord.com/invite/birdproxies | [立即注册](https://birdproxies.com/@ANTIDEBUG_BREAKER) |
 
 ## 教学视频
 
